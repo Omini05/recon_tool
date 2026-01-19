@@ -11,7 +11,7 @@ A Python-based automated reconnaissance and attack surface mapping tool.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/recon-tool.git
+git clone https://github.com/Omini05/recon-tool.git
 cd recon-tool
 pip install -r requirements.txt
 export PATH=$PATH:$(pwd)/bin
