@@ -10,7 +10,16 @@ This project is intended for educational use, security labs, and authorized reco
 
 ## Features
 
-<<<<<<< HEAD
+- Automated subdomain enumeration
+- Fast common-port scanning (web-focused)
+- Nmap XML parsing
+- Extraction of open ports and services
+- Structured JSON report generation
+- Command-line interface (CLI)
+- Safe and reproducible installation using pipx
+
+---
+
 ## Installation
 ```bash
 git clone https://github.com/Omini05/recon-tool.git
