@@ -134,14 +134,17 @@ Sample report structure:
 
 ```
 recon_tool/
-├── modules/
+├── modules/                # Core reconnaissance modules
+│   ├── __init__.py
 │   ├── subdomain_enum.py
 │   ├── port_scan.py
 │   ├── xml_parser.py
 │   └── report.py
-├── recon_tool.py
-├── setup.py
+├── images/                 # Documentation screenshots
+├── recon_tool.py           # Main CLI entry point
+├── setup.py                # Package configuration
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
